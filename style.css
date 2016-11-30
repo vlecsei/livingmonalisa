@@ -1,0 +1,46 @@
+@font-face{
+	font-family: 'DISCO___';
+	src: url('fonts/DISCO___.ttf');
+}
+
+@font-face{
+	font-family:  'AquilineTwo';
+	src: url('fonts/AquilineTwo.ttf');
+}
+
+@font-face{
+	font-family: 'DeValencia';
+	src: url('fonts/DeValencia.otf');
+}
+
+header{
+	text-align: center;
+}
+
+h1{
+	display: inline-block;
+}
+
+#living{
+	font-family: 'DeValencia';
+	font-size: 50px;
+}
+
+#mona{
+	font-family: 'AquilineTwo';
+	font-size: 80px;
+}
+
+#italian{
+	font-family: 'AquilineTwo';
+	text-align: left;
+	font-size: 30px;
+	line-height: 55px;
+}
+
+#english{
+	font-family: 'DISCO___';
+	font-size: 25px;
+	text-align: right;
+	font-weight: bold;
+}
